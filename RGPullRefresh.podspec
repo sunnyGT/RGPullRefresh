@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "RGPullRefresh"
-  s.version      = "1.0.2"
+  s.version      = "v1.0.0"
   s.summary      = "Just a PullRefresh."
 
   s.homepage     = "https://github.com/sunnyGT/RGPullRefresh"
